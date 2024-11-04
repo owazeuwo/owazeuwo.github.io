@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://owazeuwo.github.io/OvF/sitemap_index.txt
+Sitemap: https://owazeuwo.github.io/VcS/sitemap_index.txt
+Sitemap: https://owazeuwo.github.io/mrl/sitemap_index.txt
+Sitemap: https://owazeuwo.github.io/xEG/sitemap_index.txt
